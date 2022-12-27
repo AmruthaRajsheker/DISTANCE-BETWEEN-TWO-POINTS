@@ -8,7 +8,8 @@ Import math
 ### Step 2: 
 Get the two coordinate points from the user
 ### Step 3: 
-Substitute the values in the distance formula  !["formula"](/formula.jpg)
+Substitute the values in the distance formula  
+![d](https://user-images.githubusercontent.com/119475943/209681562-a8e0eb24-794a-412c-9194-37101796a510.png)
 ### Step 4: 
 Print the magnitude of distance
 ### Step 5: 
